@@ -26,7 +26,8 @@
       "target": "nsis"
     },
     "nsis": {
-      "oneClick": false
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
     },
     "linux": {
       "category": "your.app.category.type",
